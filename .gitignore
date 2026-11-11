@@ -1,0 +1,11 @@
+.DS_Store
+
+# the built binary
+/gotorrent
+
+# anything a test run downloads
+*.iso
+*.part
+
+# my own study notes, staying local
+personal_notes.txt
